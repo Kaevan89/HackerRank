@@ -1,5 +1,6 @@
 SELECT
-    CITY, STATE
+    CITY,
+    STATE
 FROM
     STATION
 ;
